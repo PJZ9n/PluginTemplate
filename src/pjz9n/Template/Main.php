@@ -16,18 +16,16 @@
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with PluginTemplate.  If not, see <http://www.gnu.org/licenses/>.
+ * along with PluginTemplate. If not, see <http://www.gnu.org/licenses/>.
  */
 
 declare(strict_types=1);
 
-namespace PJZ9n\Template;
+namespace pjz9n\template;
 
 use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase
 {
-    
     //
-    
 }
